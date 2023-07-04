@@ -1,0 +1,40 @@
+{
+  "index_name": "defichain_wiki",
+  "start_urls": ["https://www.defichainwiki.com/"],
+  "sitemap_urls": ["https://defichainwiki.com/sitemap.xml"],
+  "sitemap_alternate_links": true,
+  "selectors": {
+    "lvl0": {
+      "selector": "(//ul[contains(@class,'breadcrumbs')]//li[contains(@class,'breadcrumbs__item')]//a[contains(@class, 'breadcrumbs__link')]//span)[1]",
+      "type": "xpath",
+      "global": true
+    },
+    "lvl1": {
+      "selector": "(//ul[contains(@class,'breadcrumbs')]//li[contains(@class,'breadcrumbs__item')]//a[contains(@class, 'breadcrumbs__link')]//span)[2]",
+      "type": "xpath",
+      "global": true
+    },
+    "lvl2": "article h1",
+    "lvl3": "article h2",
+    "lvl4": "article h3",
+    "lvl5": "article h4",
+    "lvl6": "article h5, article td:first-child",
+    "lvl7": "article h6",
+    "text": "article p, article li, article td:last-child"
+  },
+  "strip_chars": " .,;:#",
+  "custom_settings": {
+    "separatorsToIndex": "_",
+    "attributesForFaceting": ["language", "version", "type", "docusaurus_tag"],
+    "attributesToRetrieve": [
+      "hierarchy",
+      "content",
+      "anchor",
+      "url",
+      "url_without_anchor",
+      "type"
+    ]
+  },
+  "conversation_id": ["833762294"],
+  "nb_hits": 46250
+}

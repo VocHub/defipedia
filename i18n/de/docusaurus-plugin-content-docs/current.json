@@ -1,0 +1,170 @@
+{
+  "sidebar.tutorialSidebar.category.Staking": {
+    "message": "Staking",
+    "description": "The label for category Staking in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Staking.link.generated-index.description": {
+    "message": "Erziele Erträge und hilf mit, das Netzwerk durch Staking zu sichern.",
+    "description": "The generated-index page description for category Staking in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Decentralized Exchange": {
+    "message": "Dezentrale Exchange",
+    "description": "The label for category Decentralized Exchange in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Decentralized Exchange.link.generated-index.description": {
+    "message": "Die dezentralisierte Exchange für den Handel mit Vermögenswerten ohne die Kontrolle durch eine einzelne Instanz.",
+    "description": "The generated-index page de scription for category Decentralized Exchange in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Liquidity Mining": {
+    "message": "Liquidity Mining",
+    "description": "The label for category Liquidity Mining in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Liquidity Mining.link.generated-index.description": {
+    "message": "Erziele ein passives Einkommen mit Liquidity Mining.",
+    "description": "The generated-index page description for category Liquidity Mining in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.dToken System": {
+    "message": "dToken-System",
+    "description": "The label for category dToken System in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.dToken System.link.generated-index.description": {
+    "message": "Alles über dTokens (Tokenisierte Vermögenswerte auf der DeFiChain).",
+    "description": "The generated-index page description for category dToken System in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Papers": {
+    "message": "Papers",
+    "description": "The label for category Papers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Papers.link.generated-index.description": {
+    "message": "Lesen Sie die technischen Unterlagen über DeFiChain.",
+    "description": "The generated-index page description for category Papers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.❤ Contribute": {
+    "message": "❤ Mithelfen",
+    "description": "The label for category Fundamentals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.❤ Contribute.link.generated-index.description": {
+    "message": "Erfahre, wie du zur Verbesserung des Wikis beitragen kannst.",
+    "description": "The generated-index page description for category Contribute in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fundamentals": {
+    "message": "Grundlagen",
+    "description": "The label for category Fundamentals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fundamentals.link.generated-index.description": {
+    "message": "Lerne die grundlegenden Konzepte von DeFiChain kennen.",
+    "description": "The generated-index page description for category Fundamentals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "Leitfäden",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides.link.generated-index.description": {
+    "message": "Leitfäden, die dir helfen, Konzepte besser zu verstehen.",
+    "description": "The generated-index page description for category Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Investing & Trading": {
+    "message": "Investieren & Handeln",
+    "description": "The label for category Investing & Trading in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Investing & Trading.link.generated-index.description": {
+    "message": "Der Leitfaden zum Investieren und Handeln auf DeFiChain.",
+    "description": "The generated-index page description for category Investing & Trading in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wallets": {
+    "message": "Wallets",
+    "description": "The label for category Wallets in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wallets.link.generated-index.description": {
+    "message": "Alles über die DeFiChain Wallets.",
+    "description": "The generated-index page description for category Wallets in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.DeFi Wallet": {
+    "message": "DeFi Wallet",
+    "description": "The label for category DeFi Wallet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.DeFi Wallet.link.generated-index.description": {
+    "message": "Alles über die DeFiChain Desktop-Wallet.",
+    "description": "The generated-index page description for category DeFi Wallet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Installation.link.generated-index.description": {
+    "message": "Installationsanleitungen.",
+    "description": "The generated-index page description for category Installation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security": {
+    "message": "Sicherheit",
+    "description": "The label for category Security in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security.link.generated-index.description": {
+    "message": "Wichtige Themen zur Sicherheit.",
+    "description": "The generated-index page description for category Security in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Usage": {
+    "message": "Verwendung",
+    "description": "The label for category Usage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Usage.link.generated-index.description": {
+    "message": "So verwendest du die DeFiChain-Desktop-Wallet.",
+    "description": "The generated-index page description for category Usage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced Usage": {
+    "message": "Erweiterte Verwendung",
+    "description": "The label for category Advanced Usage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced Usage.link.generated-index.description": {
+    "message": "Erweiterte Nutzung der DeFiChain-Desktop-Wallet.",
+    "description": "The generated-index page description for category Advanced Usage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Problems": {
+    "message": "Probleme",
+    "description": "The label for category Problems in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Problems.link.generated-index.description": {
+    "message": "Häufige und bekannte Probleme und wie sie zu lösen sind.",
+    "description": "The generated-index page description for category Problems in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Version Specific Hints": {
+    "message": "Versionsspezifische Hinweise",
+    "description": "The label for category Version Specific Hints in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Version Specific Hints.link.generated-index.description": {
+    "message": "Informationen für bestimmte App-Versionen.",
+    "description": "The generated-index page description for category Version Specific Hints in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For Developers": {
+    "message": "Für Entwickler",
+    "description": "The label for category For Developers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For Developers.link.generated-index.description": {
+    "message": "Kodierungsleitfäden und Ressourcen.",
+    "description": "The generated-index page description for category For Developers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "Gemeinschaft",
+    "description": "The label for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community.link.generated-index.description": {
+    "message": "Abstimmungen, Projekte und mehr.",
+    "description": "The generated-index page description for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.DFX": {
+    "message": "DFX",
+    "description": "The label for category DFX in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.DFX.link.generated-index.description": {
+    "message": "Informationen über DFX und die Verwendung der App.",
+    "description": "The generated-index page description for category DFX in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.External Documentation": {
+    "message": "Externe Dokumentationen",
+    "description": "The label for category External Documentation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.External Documentation.link.generated-index.description": {
+    "message": "Dokumentationsressourcen auf anderen Websites.",
+    "description": "The generated-index page description for category External Documentation in sidebar tutorialSidebar"
+  }
+}
